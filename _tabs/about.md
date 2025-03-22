@@ -18,3 +18,9 @@ The name Cozy Bytes reflects my vision for this blog a warm and welcoming place,
 "Bytes" symbolizes the computers.
 
 Through this blog, I aim to share knowledge, experiences, and insights in a way that feels both informative and inviting.
+
+## 📫 Contact Me
+
+* [LinkedIn](https://www.linkedin.com/in/EhsanShafi3i/)
+* [X](https://x.com/EhsanShafi3i)
+* [Github](https://github.com/EhsanShafi3i)
