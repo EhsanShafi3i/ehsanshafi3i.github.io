@@ -3,7 +3,7 @@
 icon: fas fa-info-circle
 order: 3
 ---
-![alt text](/assets/lib/profile.jpeg){: w="400" h="400" }
+![ehsanshafi3i](/assets/lib/profile.jpeg)
 
 # Who is Ehsan Shafiei?
 I'm a back-end developer specializing in Django, and I enjoy learning new things and challenging myself with difficult problems.
