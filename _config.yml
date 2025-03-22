@@ -14,35 +14,37 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Cozy Bytes by Ehsan # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: SomEWhere FarAway # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Personal Blog for a backend developer 
+  Ehsan Shafiei blog
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://userehsanshafi3i.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: Ehsanshaf3i # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: Ehsanshaf3i # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Ehsan Shafiei
+  email: mr.ehsanshafiei82@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://twitter.com/Ehsanshaf3i # change to your Twitter homepage
+    - https://github.com/Ehsanshaf3i # change to your GitHub homepage
+    - https://www.linkedin.com/in/Ehsanshaf3i
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
 
 # Site Verification Settings
 webmaster_verifications:
@@ -98,7 +100,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: "assets/img/favicons/android-chrome-512x512.png"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
@@ -115,8 +117,8 @@ comments:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
-    repo: # <gh-username>/<repo>
-    issue_term: # < url | pathname | title | ...>
+    repo: EhsanShafi3i/ehsanshafi3i.github.io # <gh-username>/<repo>
+    issue_term: pathname # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
     repo: # <gh-username>/<repo>
