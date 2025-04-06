@@ -2,7 +2,7 @@
 title: OTP in Django Without Saving it in the Database (Using Redis)
 image: 
     path: /assets/posts/otp-in-django.jpg
-    comment: true
+comment: true
 tags: [python,django,redis]
 ---
 
